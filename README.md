@@ -3,8 +3,7 @@
 <p align="justify">This application is a Flask application that performs text summarization and classification tasks. Frequency-based summarization method is used for text summarization, while a TF Vector ML model is used for classification. </p>
 <p align="justify">The home page contains a text input field and two buttons. Enter the text you want to analyze in the text input field. By clicking the "Özetle" button, you can get a summary of the text, which will consist of important sentences from the original text. By clicking the "Sınıflandır" button, you can perform classification on the text, indicating which category the text belongs to.</p>
 
-![sayfagörünümü](https://github.com/hesnacaliskan/turkish_text_summarization/assets/56639245/4485486e-4bd5-408b-ad82-85c2fe0f36d8)
-
+![sayfagörünümü](https://github.com/hesnacaliskan/turkish_text_summarization/assets/56639245/5bda4e15-2cb5-4901-b2b3-e625e0f2e402)
 
 ### Technologies Used:
 
