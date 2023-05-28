@@ -40,7 +40,14 @@ python app.py
 ```bash
 http://localhost:5000
 ```
+
+### Contributing
+
+Pull requests are accepted. For major changes, please open a thread to discuss what you want to change first.
+
+### License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
 </br>
-
-
 *This project was developed by Hatice Hesna Çalışkan and Rümeysa Akbaş as a Computer Engineering Graduation project of Çanakkale Onsekiz Mart University.*
